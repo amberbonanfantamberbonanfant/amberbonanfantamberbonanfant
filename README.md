@@ -1,3 +1,4 @@
+![Bonanfant Amber](Bonanfant-Amber-GitHub-header.jpg)
 # Bonanfant Amber · GitHub Administrator
 
 **Organizing projects. Documenting progress. Building a clear digital presence.**
