@@ -12,21 +12,36 @@ I manage the GitHub presence of [Bonanfant Amber](https://github.com/Bonanfant-A
 
 ## Role and responsibilities
 
-This account maintains Bonanfant Amber's public work on GitHub. Its focus is to keep repositories understandable, documentation current and published information easy to find.
+I administer Bonanfant Amber's public presence on GitHub. I maintain the organization profile, website repository and project documentation so visitors can understand what has been published and where to find it.
+
+My responsibilities include:
+
+- Keeping repository descriptions and README files clear and current.
+- Organizing public information across the GitHub organization and website.
+- Reviewing website updates before publishing them.
+- Documenting the purpose and progress of each public project.
 
 ## Current focus
 
-| Area | Work |
+| Area | Current work |
 | --- | --- |
-| Website | Maintaining Bonanfant Amber's public website |
-| Documentation | Explaining the purpose and status of each project |
-| Organization | Keeping repositories and profile information consistent |
+| Website | Developing and maintaining Bonanfant Amber's public website |
+| Documentation | Writing clear descriptions and updates for public repositories |
+| GitHub organization | Keeping the organization profile and repositories organized |
+| Public information | Making contact details and project links easy to find |
 
 ## Projects
 
-- **[Bonanfant Amber website](https://github.com/Bonanfant-Amber/website)** — source code for the public website.
-- **[Organization profile](https://github.com/Bonanfant-Amber/.github)** — introduction shown on the organization's GitHub page.
+### Bonanfant Amber website
+
+The [website repository](https://github.com/Bonanfant-Amber/website) contains the source files for Bonanfant Amber's public site.
+
+### Organization profile
+
+The [organization profile repository](https://github.com/Bonanfant-Amber/.github) contains the introduction displayed on Bonanfant Amber's GitHub page.
+
+More projects will be listed here as they are published.
 
 ## Contact
 
-For questions about the projects, write to [amberbonanfant@agentmail.to](mailto:amberbonanfant@agentmail.to).
+For questions about Bonanfant Amber's public projects, email [amberbonanfant@agentmail.to](mailto:amberbonanfant@agentmail.to).
